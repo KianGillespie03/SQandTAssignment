@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiang\\OneDrive - Atlantic TU\\Year2\\Semester2\\SoftwareQualityTesting\\SQA_Assign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9CA984-8CB1-44E6-BBF3-ADC0DDE62CD7}|SQA_Assign\\SQA_Assign.csproj|c:\\users\\kiang\\onedrive - atlantic tu\\year2\\semester2\\softwarequalitytesting\\sqa_assign\\sqa_assign\\insuranceservic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9CA984-8CB1-44E6-BBF3-ADC0DDE62CD7}|SQA_Assign\\SQA_Assign.csproj|solutionrelative:sqa_assign\\insuranceservic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0960D0-DA6D-4CAA-BFCC-1F3CBA171D1D}|SQA_Assign.Tests\\SQA_Assign.Tests.csproj|c:\\users\\kiang\\onedrive - atlantic tu\\year2\\semester2\\softwarequalitytesting\\sqa_assign\\sqa_assign.tests\\insuranceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0960D0-DA6D-4CAA-BFCC-1F3CBA171D1D}|SQA_Assign.Tests\\SQA_Assign.Tests.csproj|solutionrelative:sqa_assign.tests\\insuranceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsuranceServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\kiang\\OneDrive - Atlantic TU\\Year2\\Semester2\\SoftwareQualityTesting\\SQA_Assign\\SQA_Assign.Tests\\InsuranceServiceTests.cs",
+              "RelativeDocumentMoniker": "SQA_Assign.Tests\\InsuranceServiceTests.cs",
+              "ToolTip": "C:\\Users\\kiang\\OneDrive - Atlantic TU\\Year2\\Semester2\\SoftwareQualityTesting\\SQA_Assign\\SQA_Assign.Tests\\InsuranceServiceTests.cs",
+              "RelativeToolTip": "SQA_Assign.Tests\\InsuranceServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:30:50.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsuranceServic.cs",
+              "DocumentMoniker": "C:\\Users\\kiang\\OneDrive - Atlantic TU\\Year2\\Semester2\\SoftwareQualityTesting\\SQA_Assign\\SQA_Assign\\InsuranceServic.cs",
+              "RelativeDocumentMoniker": "SQA_Assign\\InsuranceServic.cs",
+              "ToolTip": "C:\\Users\\kiang\\OneDrive - Atlantic TU\\Year2\\Semester2\\SoftwareQualityTesting\\SQA_Assign\\SQA_Assign\\InsuranceServic.cs",
+              "RelativeToolTip": "SQA_Assign\\InsuranceServic.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T17:30:50.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
