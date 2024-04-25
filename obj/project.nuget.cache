@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ulye2ZBAc/rWfUj3q6OaSEGLJoM089PSe3QSGaB5FYWGoCkVd36D73hE84KDodd95njBQIV1rNm6pkbVX1SX8A==",
+  "dgSpecHash": "O0I7LrJ8sfxi+5GrKZ5EyoJLenEt760YkypuRqqQe3Hk4HCpWKT5xdVST4xWIsQ7mp+jIh48UVU8RvgQZwJkXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kiang\\OneDrive - Atlantic TU\\Year2\\Semester2\\SoftwareQualityTesting\\SQA_Assign\\SQA_Assign.Tests\\SQA_Assign.Tests.csproj",
+  "projectFilePath": "C:\\Users\\kiang\\OneDrive - Atlantic TU\\Year2\\Semester2\\SoftwareQualityTesting\\SQA_Assign\\SQA_Assign\\SQA_Assign.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kiang\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\kiang\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
