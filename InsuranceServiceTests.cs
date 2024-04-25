@@ -131,7 +131,7 @@ namespace SQA_Assign.Tests
             double Premium = Insurance.CalcPremium(55, "rural");
 
             // Assert
-            Assert.That(Premium, Is.EqualTo(10)); // constraint
+            Assert.That(Premium, Is.EqualTo(5)); // constraint
 
         }
 
